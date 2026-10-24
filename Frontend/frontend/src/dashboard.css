@@ -1,0 +1,13 @@
+input{
+    padding: 5px;
+}
+
+button{
+    padding: 7px;
+    font-size: 14.5px;
+    cursor: pointer;
+}
+
+.logout-btn{
+    margin-left: 7rem;
+}
